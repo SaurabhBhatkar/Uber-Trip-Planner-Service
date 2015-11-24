@@ -8,7 +8,6 @@ import (
 	"log"
 	"net/http"
 	"strconv"
-
 	"github.com/julienschmidt/httprouter"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
