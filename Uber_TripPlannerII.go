@@ -617,7 +617,7 @@ func main() {
 	mux := httprouter.New()
 	mux.GET("/trips/:name", ReadRideRequest)
 	mux.POST("/trips", CreateRideRequest)
-	mux.PUT("/trips/:name", UpdateRideRequest)
+	mux.PUT("/trips/:name/request", UpdateRideRequest)
 	//	mux.DELETE("/rideplans/:name", DeleteRideRequest)
 
 	server := http.Server{
