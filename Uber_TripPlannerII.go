@@ -118,7 +118,7 @@ type OnRideCompleted struct {
 	Status                 string        `json:"status" bson:"status"`
 
 		}
-}
+
 
 type EstimateTime struct {
 	Eta int `json:"eta"`
