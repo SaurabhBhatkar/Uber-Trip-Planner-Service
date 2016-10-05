@@ -8,8 +8,11 @@ Trip Planner Part II(using UBER Price Estimate API &amp; UBER Sandbox environmen
 -The Users can perform CRUD operations like: 
 
 Create / Post: Adding locations in the database.
+
 GET: Return the information pertaining to a location w.r.t location ID via GO struct.
+
 PUT: Update the information pertaining to a location w.r.t location ID with the values entered by the user.
+
 Delete: Delete a location on the basis of location ID specified by the user
 
 -User specifies a starting point id and the list of intermediate locations.
