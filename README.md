@@ -1,5 +1,5 @@
 # Uber-Trip-Planner-Service
-Trip Planner Part II(using UBER Price Estimate API &amp; UBER Sandbox environment for all API calls)
+Trip Planner Part(using UBER Price Estimate API &amp; UBER Sandbox environment for all API calls)
 
 -This project aims at finding the shortest route from source to destination for a round trip using Uber and Google maps API. 
 
